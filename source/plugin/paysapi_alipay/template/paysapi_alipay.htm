@@ -1,4 +1,4 @@
-<!--{if ($bapp['integral_proportion'] && $bapp['integral_type'] && $bapp['appkey'] && $bapp['appsecret'])}-->
+<!--{if ($paysapi['integral_proportion'] && $paysapi['integral_type'] && $paysapi['Uid'] && $paysapi['Token'])}-->
 <div>
     <ul class="creditl mtm bbda cl">
         <li><em> 1元 = {$bapp['integral_proportion']}
@@ -34,7 +34,7 @@
                 alert(data.msg);
                 return;
             }
-            window.location.href = data.data.pay_url;
+            window.location.href = data.pay_url;
         });
     }
 </script>

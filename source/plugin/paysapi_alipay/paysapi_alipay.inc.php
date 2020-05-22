@@ -57,4 +57,4 @@ $url = "https://pay.bearsoftware.net.cn?key="
         ."&price=".$price;
 
 add_order($order_id,$money);
-echo json_encode(array('code' => 200, 'pay_url' => '$url'));
+echo json_encode(array('code' => 200, 'pay_url' => $url));
