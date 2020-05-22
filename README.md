@@ -6,7 +6,7 @@
 
 ## 安装模块
 
-找到「*Discuz!* 管理中心」> 「应用」> 「插件」> 「paysapi_alipay支付」或「paysapi_alipay_nophone支付」或「paysapi_wechat支付」
+找到「*Discuz!* 管理中心」> 「应用」> 「插件」> 「支付宝(paysapi)」或「支付宝_免挂机(paysapi)」或「微信(paysapi) 」
 
 1. 点击 `安装`  
 2. 点击 `启用`
