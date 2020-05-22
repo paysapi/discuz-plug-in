@@ -8,9 +8,9 @@
 		<item id="plugin">
 			<item id="available"><![CDATA[1]]></item>
 			<item id="adminid"><![CDATA[1]]></item>
-			<item id="name"><![CDATA[支付宝(paysapi)]]></item>
+			<item id="name"><![CDATA[支付宝_免挂机(paysapi)]]></item>
 			<item id="identifier"><![CDATA[paysapi_alipay_nophone]]></item>
-			<item id="description"><![CDATA[paysapi提供的支付宝支付]]></item>
+			<item id="description"><![CDATA[paysapi提供的支付宝(免挂机)支付]]></item>
 			<item id="datatables"><![CDATA[]]></item>
 			<item id="directory"><![CDATA[paysapi_alipay_nophone/]]></item>
 			<item id="copyright"><![CDATA[paysapi https://paysapi.com]]></item>
